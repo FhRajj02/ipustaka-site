@@ -1,6 +1,7 @@
 :root{
-  --teal-900:#17302D;
-  --teal-800:#1E3A37;
+  --teal-900:#094acd;
+  --teal-800:#1d4bcb;
+  --navstrok:#000000;
   --teal-700:#2C4A47;
   --sage-400:#8FA893;
   --sage-200:#D6E2D8;
@@ -133,7 +134,7 @@ button{font-family:inherit;}
   background:var(--cream-50);
   color:var(--teal-800);
 }
-.nav-item.active svg{stroke:var(--teal-800);}
+.nav-item.active svg{stroke:var(--navstrok);}
 
 .nav-subitem{
   display:flex;

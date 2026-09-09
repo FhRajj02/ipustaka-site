@@ -16,7 +16,7 @@ workspace, lalu jalankan `index.html` lewat ekstensi Live Server
 | `menu-Berita.html`                                        | Berita                                          |
 | `menu-rak_pinjam.html`                                    | Rak Pinjam                                      |
 
-## File bersama (satu sumber, dipakai semua halaman)
+## File bersama (satu sumber, dipakai semua halaman).
 
 - `style.css` — semua styling sidebar, kartu, dan halaman. Ubah di sini,
   otomatis berlaku ke semua halaman.
